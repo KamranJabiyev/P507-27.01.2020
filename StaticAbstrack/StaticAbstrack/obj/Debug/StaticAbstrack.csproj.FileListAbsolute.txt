@@ -1,0 +1,6 @@
+E:\project\P507\StaticAbstrack\StaticAbstrack\bin\Debug\StaticAbstrack.exe.config
+E:\project\P507\StaticAbstrack\StaticAbstrack\bin\Debug\StaticAbstrack.exe
+E:\project\P507\StaticAbstrack\StaticAbstrack\bin\Debug\StaticAbstrack.pdb
+E:\project\P507\StaticAbstrack\StaticAbstrack\obj\Debug\StaticAbstrack.csprojAssemblyReference.cache
+E:\project\P507\StaticAbstrack\StaticAbstrack\obj\Debug\StaticAbstrack.exe
+E:\project\P507\StaticAbstrack\StaticAbstrack\obj\Debug\StaticAbstrack.pdb
